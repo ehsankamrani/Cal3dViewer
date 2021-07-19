@@ -1,0 +1,473 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_THUMB_ACTIVE        BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\mp_thumb_active.bmp"
+IDB_THUMB               BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\mp_thumb.bmp"
+IDB_NEXTANIM_UP         BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\NextAnimation_U.bmp"
+IDB_PREVANIM_F          BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\PreviousAnimation_F.bmp"
+IDB_PREVANIM_UP         BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\PreviousAnimation_U.bmp"
+IDB_DFLTIMG             BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\bitmaps\\default.bmp"
+IDB_ADDDOWN             BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\AddButton_D.bmp"
+IDB_ADDUP               BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\AddButton_U.bmp"
+IDB_CLOSEDOWN           BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Close_D.bmp"
+IDB_CLOSEUP             BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Close_U.bmp"
+IDB_TEXTUREDLINEDOWN    BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\ColorWire_D.bmp"
+IDB_TEXTUREDLINEUP      BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\ColorWire_U.bmp"
+IDB_DELETEDOWN          BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\DeleteButton_D.bmp"
+IDB_DOWN                BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Down.bmp"
+IDB_HOMEDOWN            BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Home_D.bmp"
+IDB_HOMEUP              BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Home_U.bmp"
+IDB_INTERACTIVEDOWN     BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Interactive_D.bmp"
+IDB_INTERACTIVEUP       BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Interactive_U.bmp"
+IDB_LEFT                BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Left.bmp"
+IDB_MINIMIZEDOWN        BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Minimize_D.bmp"
+IDB_MINIMIZEUP          BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Minimize_U.bmp"
+IDB_NEXTDOWN            BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Next_D.bmp"
+IDB_NEXTUP              BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Next_U.bmp"
+IDB_PREVDOWN            BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Previous_D.bmp"
+IDB_PREVUP              BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Previous_U.bmp"
+IDB_RIGHT               BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Right.bmp"
+IDB_ROTATEDOWN          BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Rotate_D.bmp"
+IDB_ROTATEUP            BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Rotate_U.bmp"
+IDB_SOLIDDOWN           BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Shaded_D.bmp"
+IDB_SOLIDUP             BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Shaded_U.bmp"
+IDB_STOPDOWN            BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Stop_D.bmp"
+IDB_STOPUP              BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Stop_U.bmp"
+IDB_TEXTUREDPOINTDOWN   BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\TextureVertex_D.bmp"
+IDB_TEXTUREDPOINTUP     BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\TextureVertex_U.bmp"
+IDB_TOP                 BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Top.bmp"
+IDB_WHITELINEDOWN       BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\WhiteLinesTransparent_D.bmp"
+IDB_WHITELINEUP         BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\WhiteLinesTransparent_U.bmp"
+IDB_WHITEPOINTDOWN      BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\WhiteTextureVertex_D.bmp"
+IDB_WHITEPOINTUP        BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\WhiteTextureVertex_U.bmp"
+IDB_DELETEUP            BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\DeleteButton_U.bmp"
+IDB_STOPDISABLE         BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Stop_Disable.bmp"
+IDB_HELPDOWN            BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Help_D.bmp"
+IDB_HELPUP              BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Help_U.bmp"
+IDB_INFODOWN            BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Info_D.bmp"
+IDB_INFOUP              BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Info_U.bmp"
+IDB_NEXTDISABLE         BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Next_Disable.bmp"
+IDB_PREVDISABLE         BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Previous_Disable.bmp"
+IDB_DFLT                BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\bitmaps\\default.bmp"
+IDB_SMALLIMG            BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Thumbnail.bmp"
+IDB_WHITEPOINTF         BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\WhiteTextureVertex_F.bmp"
+IDB_ADDF                BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\AddButton_F.bmp"
+IDB_TEXTUREDLINEF       BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\ColorWire_F.bmp"
+IDB_DELETEF             BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\DeleteButton_F.bmp"
+IDB_HOMEF               BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Home_F.bmp"
+IDB_INTERACTIVEF        BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Interactive_F.bmp"
+IDB_NEXTF               BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Next_F.bmp"
+IDB_PREVF               BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Previous_F.bmp"
+IDB_ROTATEF             BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Rotate_F.bmp"
+IDB_SOLIDF              BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Shaded_F.bmp"
+IDB_STOPF               BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Stop_F.bmp"
+IDB_TEXTUREDPOINTF      BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\TextureVertex_F.bmp"
+IDB_WHITELINEF          BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\WhiteLinesTransparent_F.bmp"
+IDB_WHITEPOINTDISABLE   BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\WhiteTextureVertex_Disable.bmp"
+IDB_TEXTUREDLINEDISABLE BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\ColorWire_Disable.bmp"
+IDB_DELETEDISABLE       BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\DeleteButton_Disable.bmp"
+IDB_HOMEDISABLE         BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Home_Disable.bmp"
+IDB_INTERACTIVEDISABLE  BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Interactive_Disable.bmp"
+IDB_ROTATEDISABLE       BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Rotate_Disable.bmp"
+IDB_SOLIDDISABLE        BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Shaded_Disable.bmp"
+IDB_TEXTUREDPOINTDISABLE BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\TextureVertex_Disable.bmp"
+IDB_WHITELINEDISABLE    BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\WhiteLinesTransparent_Disable.bmp"
+IDB_SAVEUP              BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Save_U.bmp"
+IDB_SAVEDOWN            BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Save_D.bmp"
+IDB_SAVEDISABLE         BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Save_Disable.bmp"
+IDB_SAVEF               BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Save_F.bmp"
+IDB_HELP                BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\Help Window\\3D Sculpture - Help.bmp"
+IDB_CHANNEL             BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\mp_channel.bmp"
+IDB_CHANNEL_ACTIVE      BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\mp_channel_active.bmp"
+IDB_NEXTANIM_DOWN       BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\NextAnimation_D.bmp"
+IDB_NEXTANIM_F          BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\NextAnimation_F.bmp"
+IDB_NEXTANIM_DISABLE    BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\NextAnimation_Disable.bmp"
+IDB_PREVANIM_DOWN       BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\PreviousAnimation_D.bmp"
+IDB_PREVANIM_DISABLE    BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\PreviousAnimation_Disable.bmp"
+IDB_ABOUTUP             BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\About_U.bmp"
+IDB_ABOUTDOWN           BITMAP                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\About_D.bmp"
+IDB_BITMAP_VANDA_ENGINE BITMAP                  "data\\bitmaps\\Vanda-Logo.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_INFO DIALOGEX 0, 0, 192, 310
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "information"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,70,290,50,14
+    GROUPBOX        "OpenGL Information",IDC_STATIC,7,7,178,184
+    EDITTEXT        IDC_RENDERER,13,54,167,16,ES_AUTOHSCROLL | ES_READONLY,WS_EX_DLGMODALFRAME
+    EDITTEXT        IDC_VERSION,13,80,167,16,ES_AUTOHSCROLL | ES_READONLY,WS_EX_DLGMODALFRAME
+    EDITTEXT        IDC_VENDOR,13,27,167,16,ES_AUTOHSCROLL | ES_READONLY,WS_EX_DLGMODALFRAME | WS_EX_CLIENTEDGE
+    LTEXT           "GL_VENDOR",IDC_STATIC,13,17,134,8
+    LTEXT           "GL_RENDERER",IDC_STATIC,13,45,134,8
+    LTEXT           "GL_VERSION",IDC_STATIC,13,71,134,8
+    GROUPBOX        "Current Model Information",IDC_STATIC,7,193,178,92
+    EDITTEXT        IDC_NUMVERTICES,13,213,79,16,ES_AUTOHSCROLL | ES_READONLY,WS_EX_DLGMODALFRAME
+    EDITTEXT        IDC_NUMFACES,13,240,79,16,ES_AUTOHSCROLL | ES_READONLY,WS_EX_DLGMODALFRAME
+    LTEXT           "Number of vertices",IDC_STATIC,15,203,77,8
+    LTEXT           "Number of faces",IDC_STATIC,15,230,76,8
+    EDITTEXT        IDC_NUMANIMATIONS,101,266,79,16,ES_AUTOHSCROLL | ES_READONLY,WS_EX_DLGMODALFRAME
+    LTEXT           "Number of animations",IDC_STATIC,104,256,75,8
+    EDITTEXT        IDC_LODLEVEL,13,266,79,16,ES_AUTOHSCROLL | ES_READONLY,WS_EX_DLGMODALFRAME
+    LTEXT           "Current LOD level",IDC_STATIC,15,257,75,8
+    EDITTEXT        IDC_NUMMESHES,101,213,79,16,ES_AUTOHSCROLL | ES_READONLY,WS_EX_DLGMODALFRAME
+    EDITTEXT        IDC_NUMMATERIALS,101,240,79,16,ES_AUTOHSCROLL | ES_READONLY,WS_EX_DLGMODALFRAME
+    LTEXT           "Number of meshes",IDC_STATIC,102,203,77,8
+    LTEXT           "Number of materials",IDC_STATIC,103,230,76,8
+    EDITTEXT        IDC_SHADINGVERSION,13,107,167,16,ES_AUTOHSCROLL | ES_READONLY,WS_EX_DLGMODALFRAME
+    LTEXT           "GL_SHADING_LANGUAGE_VERSION",IDC_STATIC,15,97,134,8
+    EDITTEXT        IDC_EXTENSIONS,13,134,167,52,ES_MULTILINE | ES_AUTOVSCROLL | ES_AUTOHSCROLL | ES_READONLY | WS_VSCROLL,WS_EX_DLGMODALFRAME
+    LTEXT           "GL_EXTENSIONS",IDC_STATIC,15,124,134,8
+END
+
+IDD_DIALOG_REOMMENDED_SOFTWARE DIALOGEX 0, 0, 355, 165
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Recommended Application"
+FONT 8, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,298,144,50,14
+    LTEXT           "If you look for a better free and open source software to load, visualize and animate 3D models,",IDC_STATIC,7,30,341,11
+    LTEXT           "please download Vanda Engine 1 as well as its source code for free!",IDC_STATIC,7,46,341,11
+    CONTROL         IDB_BITMAP3,IDC_STATIC,"Static",SS_BITMAP,7,63,85,69
+    CONTROL         "http://sourceforge.net/projects/vandaengine/",IDC_MFCLINK1,
+                    "MfcLink",WS_TABSTOP,152,69,157,14
+    LTEXT           "Sourceforge:",IDC_STATIC,102,71,44,11
+    CONTROL         "http://vanda3d.org/download-vanda-engine/",IDC_MFCLINK2,
+                    "MfcLink",WS_TABSTOP,152,93,169,14
+    LTEXT           "Website:",IDC_STATIC,102,94,44,11
+    CONTROL         "Don't Show This Dialog",IDC_CHECK,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,139,91,10
+    LTEXT           "Note that this software works best with 96 DPI display setting",IDC_STATIC,7,14,225,11
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_INFO, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 185
+        VERTGUIDE, 13
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 304
+    END
+
+    IDD_DIALOG_REOMMENDED_SOFTWARE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 348
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 158
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_DIALOG_REOMMENDED_SOFTWARE DLGINIT
+BEGIN
+    IDC_MFCLINK1, 0x37c, 201, 0
+0x4d3c, 0x4346, 0x694c, 0x6b6e, 0x555f, 0x6c72, 0x683e, 0x7474, 0x3a70, 
+0x2f2f, 0x6f73, 0x7275, 0x6563, 0x6f66, 0x6772, 0x2e65, 0x656e, 0x2f74, 
+0x7270, 0x6a6f, 0x6365, 0x7374, 0x762f, 0x6e61, 0x6164, 0x6e65, 0x6967, 
+0x656e, 0x3c2f, 0x4d2f, 0x4346, 0x694c, 0x6b6e, 0x555f, 0x6c72, 0x3c3e, 
+0x464d, 0x4c43, 0x6e69, 0x5f6b, 0x7255, 0x506c, 0x6572, 0x6966, 0x3e78, 
+0x2f3c, 0x464d, 0x4c43, 0x6e69, 0x5f6b, 0x7255, 0x506c, 0x6572, 0x6966, 
+0x3e78, 0x4d3c, 0x4346, 0x694c, 0x6b6e, 0x545f, 0x6f6f, 0x746c, 0x7069, 
+0x3c3e, 0x4d2f, 0x4346, 0x694c, 0x6b6e, 0x545f, 0x6f6f, 0x746c, 0x7069, 
+0x3c3e, 0x464d, 0x4c43, 0x6e69, 0x5f6b, 0x7546, 0x6c6c, 0x6554, 0x7478, 
+0x6f54, 0x6c6f, 0x6974, 0x3e70, 0x4146, 0x534c, 0x3c45, 0x4d2f, 0x4346, 
+0x694c, 0x6b6e, 0x465f, 0x6c75, 0x546c, 0x7865, 0x5474, 0x6f6f, 0x746c, 
+0x7069, "\076" 
+    IDC_MFCLINK2, 0x37c, 198, 0
+0x4d3c, 0x4346, 0x694c, 0x6b6e, 0x555f, 0x6c72, 0x683e, 0x7474, 0x3a70, 
+0x2f2f, 0x6176, 0x646e, 0x3361, 0x2e64, 0x726f, 0x2f67, 0x6f64, 0x6e77, 
+0x6f6c, 0x6461, 0x762d, 0x6e61, 0x6164, 0x652d, 0x676e, 0x6e69, 0x2f65, 
+0x2f3c, 0x464d, 0x4c43, 0x6e69, 0x5f6b, 0x7255, 0x3e6c, 0x4d3c, 0x4346, 
+0x694c, 0x6b6e, 0x555f, 0x6c72, 0x7250, 0x6665, 0x7869, 0x3c3e, 0x4d2f, 
+0x4346, 0x694c, 0x6b6e, 0x555f, 0x6c72, 0x7250, 0x6665, 0x7869, 0x3c3e, 
+0x464d, 0x4c43, 0x6e69, 0x5f6b, 0x6f54, 0x6c6f, 0x6974, 0x3e70, 0x2f3c, 
+0x464d, 0x4c43, 0x6e69, 0x5f6b, 0x6f54, 0x6c6f, 0x6974, 0x3e70, 0x4d3c, 
+0x4346, 0x694c, 0x6b6e, 0x465f, 0x6c75, 0x546c, 0x7865, 0x5474, 0x6f6f, 
+0x746c, 0x7069, 0x463e, 0x4c41, 0x4553, 0x2f3c, 0x464d, 0x4c43, 0x6e69, 
+0x5f6b, 0x7546, 0x6c6c, 0x6554, 0x7478, 0x6f54, 0x6c6f, 0x6974, 0x3e70, 
+
+    0
+END
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Persian (fa-IR) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_FAR)
+LANGUAGE LANG_PERSIAN, SUBLANG_DEFAULT
+#pragma code_page(1256)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 245, 105
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About..."
+FONT 8, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    LTEXT           "This program is free software; you can redistribute it and/or modify\\nit under the terms of the GNU Lesser General Public License ",IDC_STATIC,17,61,218,20
+    GROUPBOX        "",IDC_STATIC,10,55,229,26
+    DEFPUSHBUTTON   "OK",IDOK,101,86,50,14
+    LTEXT           "Cal3DViewer for windows version 1.0.1 ( Cal3D 0.11 )\\nCopyright (C) 2021 Ehsan Kamrani\\nEmail : opentechno@hotmail.com",IDC_STATIC,60,19,174,28
+    GROUPBOX        "",IDC_STATIC,10,6,229,45
+    ICON            IDR_MAINFRAME,IDC_STATIC,26,18,20,20
+END
+
+IDD_MYCal3DViewer_DIALOG DIALOGEX 0, 0, 685, 450
+STYLE DS_SETFONT | DS_SETFOREGROUND | DS_FIXEDSYS | WS_POPUP | WS_VISIBLE
+EXSTYLE WS_EX_APPWINDOW
+FONT 8, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_INTERACTIVE,"Button",BS_OWNERDRAW | WS_TABSTOP,142,422,16,15,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_ROTATE,"Button",BS_OWNERDRAW | WS_TABSTOP,167,422,16,15,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_STOP,"Button",BS_OWNERDRAW | WS_TABSTOP,191,422,16,15,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_HOME,"Button",BS_OWNERDRAW | WS_TABSTOP,216,422,16,15,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_SOLID,"Button",BS_OWNERDRAW | WS_TABSTOP,248,422,16,15,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_TEXTUREDLINES,"Button",BS_OWNERDRAW | WS_TABSTOP,273,422,16,15,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_WHITELINES,"Button",BS_OWNERDRAW | WS_TABSTOP,299,422,16,15,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_BONE,"Button",BS_OWNERDRAW | WS_TABSTOP,325,422,16,15,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_WHITEPOINTS,"Button",BS_OWNERDRAW | WS_TABSTOP,349,422,16,15,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_REMOVEMODEL,"Button",BS_OWNERDRAW | WS_TABSTOP,615,422,16,15,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_ADDMODEL,"Button",BS_OWNERDRAW | BS_VCENTER | WS_TABSTOP,592,422,16,15,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_PREV,"Button",BS_OWNERDRAW | WS_TABSTOP,75,422,16,13,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_NEXT,"Button",BS_OWNERDRAW | WS_TABSTOP,107,422,15,13,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_MYHELP,"Button",BS_OWNERDRAW | WS_TABSTOP,12,422,14,12,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_INFO,"Button",BS_OWNERDRAW | WS_TABSTOP,46,422,14,12,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_LIST1,"SysListView32",LVS_SMALLICON | LVS_SINGLESEL | LVS_SHOWSELALWAYS | LVS_AUTOARRANGE | LVS_EDITLABELS | LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,549,114,130,307
+    CONTROL         "",IDC_MINIMIZE,"Button",BS_OWNERDRAW,624,3,16,10,WS_EX_TRANSPARENT
+    CONTROL         "",IDC_CLOSE,"Button",BS_OWNERDRAW,645,3,16,9,WS_EX_TRANSPARENT
+    DEFPUSHBUTTON   "",IDC_SAVEDB,661,422,13,13,BS_NOTIFY | NOT WS_VISIBLE | NOT WS_TABSTOP,WS_EX_TRANSPARENT
+    CONTROL         IDB_RIGHT,IDC_STATIC,"Static",SS_BITMAP | SS_REALSIZEIMAGE,681,17,4,405
+    CONTROL         IDB_LEFT,IDC_STATIC,"Static",SS_BITMAP | SS_REALSIZEIMAGE,0,18,4,405
+    CONTROL         IDB_TOP,IDC_STATIC,"Static",SS_BITMAP,0,0,685,19
+    CONTROL         IDB_DFLT,IDC_PHOTO,"Static",SS_BITMAP | SS_CENTERIMAGE | SS_REALSIZEIMAGE,554,24,120,83,WS_EX_TRANSPARENT
+    GROUPBOX        "",IDC_STATIC,550,18,128,93
+    CONTROL         "",IDC_SAVELIST,"Button",BS_OWNERDRAW | BS_VCENTER | WS_TABSTOP,567,422,16,15,WS_EX_TRANSPARENT
+    CONTROL         IDB_CHANNEL,IDC_SLIDER,"Static",SS_BITMAP | SS_NOTIFY,471,435,100,7,WS_EX_TRANSPARENT
+    CONTROL         IDB_DOWN,IDC_STATIC,"Static",SS_BITMAP | SS_CENTERIMAGE | SS_REALSIZEIMAGE,0,422,685,28
+    CONTROL         "",IDC_NEXTANIMATION,"Button",BS_OWNERDRAW | WS_TABSTOP,409,422,16,15
+    CONTROL         "",IDC_PREVANIMATION,"Button",BS_OWNERDRAW | WS_TABSTOP,382,422,16,15
+    CONTROL         "",IDC_ABOUT,"Button",BS_OWNERDRAW | WS_TABSTOP,29,422,14,12
+END
+
+IDD_ADD DIALOGEX 0, 0, 177, 106
+STYLE DS_SETFONT | DS_MODALFRAME | DS_3DLOOK | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Add an item..."
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT1,7,13,133,16,ES_AUTOHSCROLL | ES_READONLY,WS_EX_DLGMODALFRAME
+    PUSHBUTTON      "...",IDC_OPENMODEL,146,12,17,15
+    EDITTEXT        IDC_EDIT2,7,41,133,16,ES_AUTOHSCROLL | ES_READONLY,WS_EX_DLGMODALFRAME
+    PUSHBUTTON      "...",IDC_OPENBMP,146,41,17,15
+    EDITTEXT        IDC_EDIT3,7,68,133,16,ES_AUTOHSCROLL,WS_EX_DLGMODALFRAME
+    LTEXT           "cfg file",IDC_STATIC,7,3,71,8
+    LTEXT           "Bitmap",IDC_STATIC,7,31,71,8
+    LTEXT           "Name on the list ",IDC_STATIC,7,58,71,8
+    DEFPUSHBUTTON   "OK",IDC_OK,105,88,31,15
+    PUSHBUTTON      "Cancel",IDCANCEL,138,88,31,15
+END
+
+IDD_HELP DIALOGEX 0, 0, 300, 179
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_POPUP | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         IDB_HELP,IDC_STATIC,"Static",SS_BITMAP,0,0,300,179
+    CONTROL         "",IDC_CLOSEHELP,"Button",BS_OWNERDRAW,264,0,29,12
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        BOTTOMMARGIN, 100
+    END
+
+    IDD_MYCal3DViewer_DIALOG, DIALOG
+    BEGIN
+        HORZGUIDE, 422
+    END
+
+    IDD_ADD, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 169
+        VERTGUIDE, 36
+        BOTTOMMARGIN, 103
+    END
+
+    IDD_HELP, DIALOG
+    BEGIN
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\\r\\n\\\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\\r\\n#define _AFX_NO_OLE_RESOURCES\\r\\n#define _AFX_NO_TRACKER_RESOURCES\\r\\n#define _AFX_NO_PROPERTY_RESOURCES\\r\\n\\r\\n#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_FAR)\\r\\nLANGUAGE 41, 1\\r\\n#pragma code_page(1256)\\r\\n#include ""res\\MyCal3DViewer.rc2""  // non-Microsoft Visual C++ edited resources\\r\\n#include ""afxres.rc""     // Standard components\\r\\n#endif\\r\\n\\\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\Cal3Dviewer.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904e4"
+        BEGIN
+            VALUE "FileDescription", "Cal3D Viewer for windows"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "Cal3DViewer.exe"
+            VALUE "LegalCopyright", "(c).  All rights reserved."
+            VALUE "OriginalFilename", "Cal3DViewer.exe"
+            VALUE "ProductName", "Cal3D Viewer for windows"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1252
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_MOVE                CURSOR                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\trck4way.cur"
+IDC_PAN                 CURSOR                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\im_orghv.cur"
+IDC_ZOOM                CURSOR                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\magnify.cur"
+IDC_ROTATE              CURSOR                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\rotate.cur"
+IDC_INVALID             CURSOR                  "F:\\Older Projects\\interactive project\\VC++_final_projects\\cal3dviewer_1_0_1\\Cal3dViewer_source_1_0_1\\Interface\\no.cur"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+    IDS_ABOUTBOX            "&About Cal3DViewer..."
+END
+
+#endif    // Persian (fa-IR) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_FAR)
+LANGUAGE 41, 1
+#pragma code_page(1256)
+#include "res\MyCal3DViewer.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"     // Standard components
+#endif
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

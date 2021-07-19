@@ -1,0 +1,725 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource files">
+      <UniqueIdentifier>{88510c2b-6078-4727-a19e-9f01a710721e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AddModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitmap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BitmapSlider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cal3DBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cal3DChild.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cal3DViewer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cal3DViewerDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CommonGL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GLWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Help.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Info.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="light0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="light1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="light2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LightModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MemberData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Targa.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tga.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RecommendedSoftware.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AddModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bitmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitmapSlider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cal3DBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cal3DChild.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cal3DViewer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cal3DViewerDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonGL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GLWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Help.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageLib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Info.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="light0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="light1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="light2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LightModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MemberData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="memdc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Targa.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tga.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RecommendedSoftware.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Interface\About Window\3D Sculpture - About.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Help Window\3D Sculpture - Help.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\AddButton_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\AddButton_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\AddButton_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\bitmap11.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="res\Cal3DViewer.ICO">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Close_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Close_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\ColorWire_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\ColorWire_Disable.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\ColorWire_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\ColorWire_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\bitmaps\default.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\DeleteButton_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\DeleteButton_Disable.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\DeleteButton_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\DeleteButton_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Down.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Help_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Help_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Home_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Home_Disable.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Home_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Home_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Info_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Info_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Interactive_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Interactive_Disable.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Interactive_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Interactive_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Left.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Minimize_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Minimize_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\mp_channel.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\mp_channel_active.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\mp_thumb.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\mp_thumb_active.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Next_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Next_Disable.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Next_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Next_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\NextAnimation_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\NextAnimation_Disable.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\NextAnimation_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\NextAnimation_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Previous_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Previous_Disable.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Previous_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Previous_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\PreviousAnimation_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\PreviousAnimation_Disable.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\PreviousAnimation_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\PreviousAnimation_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Right.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Rotate_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Rotate_Disable.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Rotate_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Rotate_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Save_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Save_Disable.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Save_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Save_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Shaded_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Shaded_Disable.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Shaded_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Shaded_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Stop_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Stop_Disable.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Stop_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Stop_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\TextureVertex_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\TextureVertex_Disable.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\TextureVertex_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\TextureVertex_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Thumbnail.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\Top.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\WhiteLinesTransparent_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\WhiteLinesTransparent_Disable.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\WhiteLinesTransparent_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\WhiteLinesTransparent_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\WhiteTextureVertex_D.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\WhiteTextureVertex_Disable.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\WhiteTextureVertex_F.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\Interface\WhiteTextureVertex_U.bmp">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Help Window\3D Sculpture - Help.bmp" />
+    <Image Include="..\Interface\About_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\About_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\About_U.bmp" />
+    <Image Include="..\Interface\About_U.bmp" />
+    <Image Include="..\Interface\About Window\AboutDlg.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\AddButton_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\AddButton_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\AddButton_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Close_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Close_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\ColorWire_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\ColorWire_Disable.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\ColorWire_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\ColorWire_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\bitmaps\default.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\DeleteButton_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\DeleteButton_Disable.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\DeleteButton_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\DeleteButton_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Down.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Help_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Help_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Home_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Home_Disable.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Home_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Home_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Info_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Info_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Interactive_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Interactive_Disable.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Interactive_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Interactive_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Left.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Minimize_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Minimize_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\mp_channel.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\mp_channel_active.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\mp_thumb.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\mp_thumb_active.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Next_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Next_Disable.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Next_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Next_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\NextAnimation_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\NextAnimation_Disable.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\NextAnimation_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\NextAnimation_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Previous_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Previous_Disable.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Previous_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Previous_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\PreviousAnimation_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\PreviousAnimation_Disable.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\PreviousAnimation_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\PreviousAnimation_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Right.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Rotate_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Rotate_Disable.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Rotate_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Rotate_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Save_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Save_Disable.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Save_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Save_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Shaded_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Shaded_Disable.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Shaded_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Shaded_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Stop_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Stop_Disable.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Stop_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Stop_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\TextureVertex_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\TextureVertex_Disable.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\TextureVertex_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\TextureVertex_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Thumbnail.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\Top.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\WhiteLinesTransparent_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\WhiteLinesTransparent_Disable.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\WhiteLinesTransparent_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\WhiteLinesTransparent_U.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\WhiteTextureVertex_D.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\WhiteTextureVertex_Disable.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\WhiteTextureVertex_F.bmp" />
+    <Image Include="..\..\..\Cal3Dviewer\Interface\WhiteTextureVertex_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\mp_thumb_active.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\mp_thumb.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\NextAnimation_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\PreviousAnimation_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\PreviousAnimation_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\bitmaps\default.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\AddButton_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\AddButton_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Close_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Close_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\ColorWire_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\ColorWire_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\DeleteButton_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Down.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Home_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Home_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Interactive_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Interactive_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Left.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Minimize_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Minimize_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Next_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Next_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Previous_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Previous_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Right.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Rotate_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Rotate_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Shaded_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Shaded_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Stop_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Stop_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\TextureVertex_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\TextureVertex_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Top.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\WhiteLinesTransparent_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\WhiteLinesTransparent_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\WhiteTextureVertex_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\WhiteTextureVertex_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\DeleteButton_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Stop_Disable.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Help_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Help_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Info_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Info_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Next_Disable.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Previous_Disable.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Thumbnail.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\WhiteTextureVertex_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\AddButton_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\ColorWire_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\DeleteButton_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Home_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Interactive_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Next_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Previous_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Rotate_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Shaded_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Stop_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\TextureVertex_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\WhiteLinesTransparent_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\WhiteTextureVertex_Disable.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\ColorWire_Disable.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\DeleteButton_Disable.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Home_Disable.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Interactive_Disable.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Rotate_Disable.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Shaded_Disable.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\TextureVertex_Disable.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\WhiteLinesTransparent_Disable.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Save_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Save_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Save_Disable.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Save_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\Help Window\3D Sculpture - Help.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\mp_channel.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\mp_channel_active.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\NextAnimation_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\NextAnimation_F.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\NextAnimation_Disable.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\PreviousAnimation_D.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\PreviousAnimation_Disable.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\About_U.bmp" />
+    <Image Include="..\..\Cal3dViewer_source_1_0_1\Interface\About_D.bmp" />
+    <Image Include="data\bitmaps\Vanda-Logo.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\mp_thumb_active.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\mp_thumb.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\NextAnimation_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\PreviousAnimation_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\PreviousAnimation_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\bitmaps\default.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\AddButton_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\AddButton_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Close_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Close_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\ColorWire_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\ColorWire_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\DeleteButton_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Down.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Home_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Home_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Interactive_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Interactive_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Left.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Minimize_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Minimize_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Next_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Next_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Previous_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Previous_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Right.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Rotate_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Rotate_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Shaded_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Shaded_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Stop_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Stop_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\TextureVertex_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\TextureVertex_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Top.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\WhiteLinesTransparent_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\WhiteLinesTransparent_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\WhiteTextureVertex_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\WhiteTextureVertex_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\DeleteButton_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Stop_Disable.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Help_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Help_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Info_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Info_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Next_Disable.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Previous_Disable.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Thumbnail.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\WhiteTextureVertex_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\AddButton_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\ColorWire_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\DeleteButton_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Home_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Interactive_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Next_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Previous_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Rotate_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Shaded_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Stop_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\TextureVertex_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\WhiteLinesTransparent_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\WhiteTextureVertex_Disable.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\ColorWire_Disable.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\DeleteButton_Disable.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Home_Disable.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Interactive_Disable.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Rotate_Disable.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Shaded_Disable.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\TextureVertex_Disable.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\WhiteLinesTransparent_Disable.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Save_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Save_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Save_Disable.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Save_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\Help Window\3D Sculpture - Help.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\mp_channel.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\mp_channel_active.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\NextAnimation_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\NextAnimation_F.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\NextAnimation_Disable.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\PreviousAnimation_D.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\PreviousAnimation_Disable.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\About_U.bmp" />
+    <Image Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\About_D.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Cal3DViewer.rc">
+      <Filter>Resource files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Interface\im_orghv.cur">
+      <Filter>Resource files</Filter>
+    </None>
+    <None Include="..\Interface\magnify.cur">
+      <Filter>Resource files</Filter>
+    </None>
+    <None Include="..\Interface\no.cur">
+      <Filter>Resource files</Filter>
+    </None>
+    <None Include="..\Interface\rotate.cur">
+      <Filter>Resource files</Filter>
+    </None>
+    <None Include="..\Interface\trck4way.cur">
+      <Filter>Resource files</Filter>
+    </None>
+    <None Include="..\..\..\Cal3Dviewer\Interface\im_orghv.cur" />
+    <None Include="..\..\..\Cal3Dviewer\Interface\magnify.cur" />
+    <None Include="..\..\..\Cal3Dviewer\Interface\no.cur" />
+    <None Include="..\..\..\Cal3Dviewer\Interface\rotate.cur" />
+    <None Include="..\..\..\Cal3Dviewer\Interface\trck4way.cur" />
+    <None Include="..\..\Cal3dViewer_source_1_0_1\Interface\trck4way.cur" />
+    <None Include="..\..\Cal3dViewer_source_1_0_1\Interface\im_orghv.cur" />
+    <None Include="..\..\Cal3dViewer_source_1_0_1\Interface\magnify.cur" />
+    <None Include="..\..\Cal3dViewer_source_1_0_1\Interface\rotate.cur" />
+    <None Include="..\..\Cal3dViewer_source_1_0_1\Interface\no.cur" />
+    <None Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\trck4way.cur" />
+    <None Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\im_orghv.cur" />
+    <None Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\magnify.cur" />
+    <None Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\rotate.cur" />
+    <None Include="..\..\..\cal3dviewer_1_0_1\Cal3dViewer_source_1_0_1\Interface\no.cur" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>Resource files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
